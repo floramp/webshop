@@ -2,10 +2,6 @@
 	
 
 </head>
-	
-
-	
-<!--footer start from here-->
 
 
 <footer>
