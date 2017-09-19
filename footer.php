@@ -1,15 +1,13 @@
-<html>
 
-<head>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-	<link href="https://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
-	<link rel="stylesheet" href="footer.css">
 	
+<<<<<<< HEAD
 </head>
 	
 
 	
 <!--footer start from here-->
+=======
+>>>>>>> ce4aecc21922abc356b316fae152851191453066
 <footer>
   <div class="container">
     <div class="row">
