@@ -12,6 +12,7 @@
 ?>
 
 
+
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
     <head>
@@ -29,8 +30,6 @@
         <?php if ( is_singular() && get_option( 'thread_comments' ) ) wp_enqueue_script( 'comment-reply' ); ?>
         <?php wp_head(); ?>
     </head>
-
-LOL
 	
 <body>
 	<p>header</p>
