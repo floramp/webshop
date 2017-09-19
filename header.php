@@ -30,7 +30,7 @@
         <?php wp_head(); ?>
     </head>
 
-
+LOL
 	
 <body>
 	<p>header</p>
