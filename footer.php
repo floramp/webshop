@@ -29,7 +29,7 @@
         <h6 class="heading7 text-center">Versandarten</h6>
         <div class="post">
 			<img src="<?php bloginfo('template_url');?>/img/dhl.png " height="60" width="240">
-			<img src="<?php bloginfo('template_url');?>/img/ups.png " height="100" width="240">
+			<img src="<?php bloginfo('template_url');?>/img/ups.png " height="200" width="240">
 			<img src="<?php bloginfo('template_url');?>/img/dp.jpg " height="60" width="240">
 			
 		  </div>
