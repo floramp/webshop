@@ -2,12 +2,7 @@
 	
 <<<<<<< HEAD
 </head>
-	
 
-	
-<!--footer start from here-->
-=======
->>>>>>> ce4aecc21922abc356b316fae152851191453066
 <footer>
   <div class="container">
     <div class="row">
