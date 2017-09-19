@@ -1,7 +1,8 @@
 
 	
-<<<<<<< HEAD
+
 </head>
+
 
 <footer>
   <div class="container">
