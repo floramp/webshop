@@ -27,6 +27,12 @@
 <?php wp_head(); ?>
 </head>
 
+
+
+
+
+
+
 	
 <body>
 	
@@ -218,4 +224,7 @@
     );
 });
 	</script>
+	
+	<p>header</p>
+	
 	
