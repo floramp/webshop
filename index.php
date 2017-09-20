@@ -8,7 +8,7 @@ get_header(); ?>
 	<p>Webshop</p>
 
 </div>
-	<?php
+<?php
 
 get_footer(); ?>
 	

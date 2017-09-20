@@ -1,0 +1,82 @@
+/*COLORS*/
+.color-red{color: #FF0000;}
+.color-green{color: #6cbc42;}
+.color-blue{color: #0080c5;}
+.color-twitter{color:#00aced;}
+.color-facebook{color:#00539f;}
+.color-linkedin{color:#0176b5;}
+
+/*NAVBAR STYLES*/
+.navbar-border{border-bottom: solid 5px #0080c5;}
+.login-panel { 
+    min-width: 250px; 
+    border-top: 14px solid #0080c5;
+    border-right: 1px solid #0080c5;
+    border-bottom-right-radius:0.5em;
+    -moz-border-radius-bottomright:0.5em;
+    border-bottom: 3px solid #0080c5;
+    border-left: 1px solid #0080c5;
+    border-bottom-left-radius:0.5em;
+    -moz-border-radius-bottomleft:0.5em;
+    }
+.dropdown-header { display: block !important; padding-bottom: 30px; height: 10px; }
+.login-header { font-size: 20px; font-weight: bold; display: inline; float: left; }
+.forgot-password { font-size: 10px; display: inline; float: right; vertical-align: bottom; padding-top: 10px; }
+.center-text { text-align: center; }
+.error-message { font-size: 11px; }
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+body {
+  font-family: 'Open Sans', 'sans-serif';
+}
+.mega-dropdown {
+  position: static !important;
+}
+.mega-dropdown-menu {
+    padding: 20px 0px;
+    width: 100%;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.mega-dropdown-menu > li > ul {
+  padding: 0;
+  margin: 0;
+}
+.mega-dropdown-menu > li > ul > li {
+  list-style: none;
+}
+.mega-dropdown-menu > li > ul > li > a {
+  display: block;
+  color: #222;
+  padding: 3px 5px;
+}
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+  text-decoration: none;
+}
+.mega-dropdown-menu .dropdown-header {
+  font-size: 18px;
+  color: #ff3546;
+  padding: 5px 60px 5px 5px;
+  line-height: 30px;
+}
+
+.carousel-control {
+  width: 30px;
+  height: 30px;
+  top: -35px;
+
+}
+.left.carousel-control {
+  right: 30px;
+  left: inherit;
+}
+.carousel-control .glyphicon-chevron-left, 
+.carousel-control .glyphicon-chevron-right {
+  font-size: 12px;
+  background-color: #fff;
+  line-height: 30px;
+  text-shadow: none;
+  color: #333;
+  border: 1px solid #ddd;
+}
