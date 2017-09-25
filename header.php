@@ -150,14 +150,7 @@
           </ul>
         </li>
         <li>
-            <form class="navbar-form" role="search">
-            <div class="input-group">
-                <input type="text" class="form-control" placeholder="search" name="q">
-                <div class="input-group-btn">
-                    <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
-                </div>
-            </div>
-            </form>    
+              
         </li>
         <li><a href="#"><i class="fa fa-twitter color-twitter"></i></a></li>
         <li><a href="#"><i class="fa fa-facebook color-facebook"></i></a></li>
